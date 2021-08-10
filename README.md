@@ -1,5 +1,5 @@
 # MLstockPredictions
-Capstone project for the DSCI program at Drexel.
+Capstone project for the DSCI program at Drexel. The goal of this project is to predict the trajectory of stocks based on sentiment analysis and machine learning algorithms. 
 
 # Presentations
   
