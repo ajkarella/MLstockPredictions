@@ -4,7 +4,8 @@ Capstone project for the DSCI program at Drexel. The goal of this project is to 
 # Presentations
   
 [1 - EDA](https://docs.google.com/presentation/d/1BTV6rEOEukcgxXdX7xni_Y6ldnSW14Bd71sL3An4JIU/edit?usp=sharing) </br>
-[2 - ML](https://docs.google.com/presentation/d/1pUbL74Wc20A_0fFZgrkaAI5uAOFpSlPv9u6xPBqKN50/edit?usp=sharing)
+[2 - ML](https://docs.google.com/presentation/d/1pUbL74Wc20A_0fFZgrkaAI5uAOFpSlPv9u6xPBqKN50/edit?usp=sharing) </br>
+[3 - TF-IDF](https://docs.google.com/presentation/d/1-hKmgsCu38yG3gc98Gu9b9gdrCaevDKKyO4lvrXHHhQ/edit?usp=sharing)
 
 # Papers
 
