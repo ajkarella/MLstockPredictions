@@ -9,4 +9,5 @@ Capstone project for the DSCI program at Drexel. The goal of this project is to 
 
 # Papers
 
-[modeling report paper](https://docs.google.com/document/d/1cfSjLGVgFbFPRtd6eSw_6lfhEF4RA-7NclXc_QzH3LQ/edit?usp=sharing)
+[modeling report paper](https://docs.google.com/document/d/1cfSjLGVgFbFPRtd6eSw_6lfhEF4RA-7NclXc_QzH3LQ/edit?usp=sharing) </br>
+[final report and results](https://docs.google.com/document/d/1C4uyn9RAq7e-kkJwBr5vvp5qNjC6OhIi1R63EYYjiKE/edit?usp=sharing)
